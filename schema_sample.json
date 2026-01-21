@@ -1,0 +1,20 @@
+[
+  {
+    "signature_id": "VDB-2026-001",
+    "scam_type": "Digital Arrest",
+    "language": "Malayalam-English (Manglish)",
+    "primary_trigger": "Authority-Fear",
+    "script_signature": "CBI calling from Delhi. Your Aadhaar is linked to illegal money laundering. Arrest warrant is ready. Stay on call.",
+    "keywords": ["CBI", "Illegal", "Aadhaar", "Arrest", "Money Laundering"],
+    "action_requested": "Stay on video call / Transfer security deposit"
+  },
+  {
+    "signature_id": "VDB-2026-002",
+    "scam_type": "KYC Update",
+    "language": "Hindi-English (Hinglish)",
+    "primary_trigger": "Urgency",
+    "script_signature": "Aapka bank account 2 ghante mein block ho jayega. Turant link pe click karein aur KYC update karein.",
+    "keywords": ["Block", "Bank", "KYC", "Update", "Urgency"],
+    "action_requested": "Click phishing link / Provide OTP"
+  }
+]
